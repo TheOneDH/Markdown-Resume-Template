@@ -11,7 +11,7 @@
 ## 教育经历
       
 * 中国科学院光电技术研究所&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2023.7&emsp;&emsp;&emsp;&emsp; 电子信息-研究生         
-* 成都理工大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 电子信息科学与技术-本科  
+* 成都理工大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 电子信息科学与技术-本科  
 
 ## 专业技能
 
